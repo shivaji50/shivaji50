@@ -1,4 +1,4 @@
-Hey I'm Prasad VijayKumar Dangare And Here What I'm Lokking For 👋
+Hey I'm Shivaji Das And Here What I'm Lokking For 👋
 
 <!--
 **shivaji50/shivaji50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
