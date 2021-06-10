@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaji50" alt="shivaji50" /></a> </p>
 
-<img align = "right" alt = "GIF" src = "second.gif" width="500" height="320" />
+ <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121574158-9bc60e80-ca43-11eb-994e-17b190bd14da.gif" width="500" height="320" />
 
 - 📄 Institute / University : **Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
