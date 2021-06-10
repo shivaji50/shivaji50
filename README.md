@@ -11,11 +11,11 @@
 
  <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121574158-9bc60e80-ca43-11eb-994e-17b190bd14da.gif" width="500" height="320" />
 
-- 📄 Institute / University : **Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
+- 📄 **Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
-- 📫 How To Reach Me : Mail Id : shivajidassdsd@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shivaji-das-7a66b9202/)
+- 📫 **How To Reach Me : Mail Id : shivajidassdsd@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shivaji-das-7a66b9202/)**
 
-- ⚡ Fun Fact : **Interested In Learning New Things, Reading Books, Playing Outdoor games.**
+- ⚡ **Fun Fact : Interested In Learning New Things, Reading Books, Playing Outdoor games.**
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
