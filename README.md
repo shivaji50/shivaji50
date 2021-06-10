@@ -8,9 +8,10 @@
 
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaji50" alt="shivaji50" /></a> </p>
 
- <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121579374-4856bf00-ca49-11eb-95c9-f17b23717432.gif" width="500" height="320" />
+ <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121580705-ac2db780-ca4a-11eb-8190-a90b038a0087.gif" width="400" height="440" />
 
 - 📄 **Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
