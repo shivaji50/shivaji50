@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shivaji Das And Here What I'm Lokking For :</h1>
-<h3 align="center">Hard Work With Passions And Passionate With Programming...</h3>
 
 
 
@@ -7,7 +6,8 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-dangare" alt="shivaji50" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaji50" alt="shivaji50" /></a> </p>
 
 <img align = "right" alt = "GIF" src = "second.gif" width="500" height="320" />
 
