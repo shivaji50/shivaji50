@@ -7,9 +7,10 @@
 
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaji50" alt="shivaji50" /></a> </p>
 
- <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121574158-9bc60e80-ca43-11eb-994e-17b190bd14da.gif" width="500" height="320" />
+ <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121579374-4856bf00-ca49-11eb-95c9-f17b23717432.gif" width="500" height="320" />
 
 - 📄 **Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
@@ -19,7 +20,7 @@
 
 <h3 align="left">Connect Me Through : </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivaji-das-7a66b9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-das-7a66b9202" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivaji-das-7a66b9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-das-7a66b9202" height="30" width="30" /></a>
 
 </p>
 
