@@ -4,12 +4,13 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shivaji50&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivaji50" alt="shivaji50" /></a> </p>
+
 
  <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121580705-ac2db780-ca4a-11eb-8190-a90b038a0087.gif" width="400" height="440" />
 
