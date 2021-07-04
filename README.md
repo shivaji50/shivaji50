@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Shivaji Das And Here What I'm Lokking For :</h1>
+<h1 align="center">Hi 👋, I'm Shivaji Das And Here What I Do :</h1>
 
 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shivaji50&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
