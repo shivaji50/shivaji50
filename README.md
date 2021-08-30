@@ -20,7 +20,7 @@
 
 - ⚡ **Fun Fact : Interested In Learning New Things, Reading Books, Playing Outdoor games.**
 
-<h3 align="left">Connect Me Through : </h3>
+<h3 align="left">Connect Me Through :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shivaji-das-7a66b9202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-das-7a66b9202" height="30" width="30" /></a>
 
