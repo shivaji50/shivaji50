@@ -16,7 +16,7 @@
 
 - 📄 **Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
-- 📫 **How To Reach Me : Mail Id : shivajidassdsd@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/shivaji-das-7a66b9202/)**
+- 📫 **How To Reach Me : Mail Id : shivajidassdsd@gmail.com,[LinkedIn Profile](https://www.linkedin.com/in/shivaji-das-7a66b9202/)**
 
 - ⚡ **Fun Fact : Interested In Learning New Things, Reading Books, Playing Outdoor games.**
 
