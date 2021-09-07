@@ -12,7 +12,7 @@
 
 
 
- <img align = "right" alt = "GIF" src = " https://user-images.githubusercontent.com/82969117/121580705-ac2db780-ca4a-11eb-8190-a90b038a0087.gif" width="400" height="440" />
+ <img align = "right" alt = "GIF" src = "https://user-images.githubusercontent.com/82969117/121580705-ac2db780-ca4a-11eb-8190-a90b038a0087.gif" width="400" height="440" />
 
 - 📄 **Institute / University : Im A Student Of BCA In BMCC, Savitribai Phule University Pune.**
 
